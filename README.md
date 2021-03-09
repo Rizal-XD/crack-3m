@@ -17,6 +17,8 @@ $cd $HOME/crack-3m
 $python run.py
 
 # Fitur 
-*Fast crack dengan mbasic\n
-*Dump id cepat no limit\n
-*Simpel\n
+*Fast crack dengan mbasic*
+
+*Dump id cepat no limit*
+
+*Simpel*
